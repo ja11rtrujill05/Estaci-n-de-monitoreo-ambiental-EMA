@@ -1,0 +1,2 @@
+En este apartado encontrara los codigos usados a lo largo del proyecto, si desea
+implementar su propia estacion puede usar la version mas avanzada o en su defecto la version 6
